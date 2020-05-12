@@ -13,6 +13,20 @@
 		FA06C37824478E690011D3D9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA06C37624478E690011D3D9 /* Main.storyboard */; };
 		FA06C37A24478E6D0011D3D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA06C37924478E6D0011D3D9 /* Assets.xcassets */; };
 		FA06C37D24478E6D0011D3D9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA06C37B24478E6D0011D3D9 /* LaunchScreen.storyboard */; };
+		FA143431245A37B100F33D64 /* ButtonMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA143430245A37B100F33D64 /* ButtonMenuViewController.swift */; };
+		FA3F25A4245CBB21008FB1A8 /* KidsMealsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3F25A3245CBB21008FB1A8 /* KidsMealsViewController.swift */; };
+		FA3F25A6245F513B008FB1A8 /* ValueMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3F25A5245F513B008FB1A8 /* ValueMenuViewController.swift */; };
+		FA3F25A8245F5E38008FB1A8 /* DrinksMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3F25A7245F5E38008FB1A8 /* DrinksMenuViewController.swift */; };
+		FA3F25AA2460E5C5008FB1A8 /* SidesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3F25A92460E5C5008FB1A8 /* SidesViewController.swift */; };
+		FA3F25AC2460E5D1008FB1A8 /* ShakesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3F25AB2460E5D1008FB1A8 /* ShakesViewController.swift */; };
+		FA3F25AE2460E5E4008FB1A8 /* BlastsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3F25AD2460E5E4008FB1A8 /* BlastsViewController.swift */; };
+		FA3F25B02460E5FB008FB1A8 /* BurgersToastersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3F25AF2460E5FB008FB1A8 /* BurgersToastersViewController.swift */; };
+		FA3F25B22460E616008FB1A8 /* FloatsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3F25B12460E616008FB1A8 /* FloatsViewController.swift */; };
+		FA3F25B42460E621008FB1A8 /* CreamSlushViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3F25B32460E621008FB1A8 /* CreamSlushViewController.swift */; };
+		FA3F25B62460E62D008FB1A8 /* SlushesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3F25B52460E62D008FB1A8 /* SlushesViewController.swift */; };
+		FA3F25B82460E661008FB1A8 /* FrozenFavViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3F25B72460E661008FB1A8 /* FrozenFavViewController.swift */; };
+		FA3F25BA2460F0D6008FB1A8 /* ChickenConeysViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3F25B92460F0D6008FB1A8 /* ChickenConeysViewController.swift */; };
+		FAF69C23245B577700B60DC0 /* CombosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF69C22245B577700B60DC0 /* CombosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +38,20 @@
 		FA06C37924478E6D0011D3D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA06C37C24478E6D0011D3D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA06C37E24478E6D0011D3D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA143430245A37B100F33D64 /* ButtonMenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonMenuViewController.swift; sourceTree = "<group>"; };
+		FA3F25A3245CBB21008FB1A8 /* KidsMealsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KidsMealsViewController.swift; sourceTree = "<group>"; };
+		FA3F25A5245F513B008FB1A8 /* ValueMenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValueMenuViewController.swift; sourceTree = "<group>"; };
+		FA3F25A7245F5E38008FB1A8 /* DrinksMenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrinksMenuViewController.swift; sourceTree = "<group>"; };
+		FA3F25A92460E5C5008FB1A8 /* SidesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SidesViewController.swift; sourceTree = "<group>"; };
+		FA3F25AB2460E5D1008FB1A8 /* ShakesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShakesViewController.swift; sourceTree = "<group>"; };
+		FA3F25AD2460E5E4008FB1A8 /* BlastsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlastsViewController.swift; sourceTree = "<group>"; };
+		FA3F25AF2460E5FB008FB1A8 /* BurgersToastersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BurgersToastersViewController.swift; sourceTree = "<group>"; };
+		FA3F25B12460E616008FB1A8 /* FloatsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatsViewController.swift; sourceTree = "<group>"; };
+		FA3F25B32460E621008FB1A8 /* CreamSlushViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreamSlushViewController.swift; sourceTree = "<group>"; };
+		FA3F25B52460E62D008FB1A8 /* SlushesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlushesViewController.swift; sourceTree = "<group>"; };
+		FA3F25B72460E661008FB1A8 /* FrozenFavViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrozenFavViewController.swift; sourceTree = "<group>"; };
+		FA3F25B92460F0D6008FB1A8 /* ChickenConeysViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChickenConeysViewController.swift; sourceTree = "<group>"; };
+		FAF69C22245B577700B60DC0 /* CombosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +87,20 @@
 				FA06C37024478E690011D3D9 /* AppDelegate.swift */,
 				FA06C37224478E690011D3D9 /* SceneDelegate.swift */,
 				FA06C37424478E690011D3D9 /* ViewController.swift */,
+				FA143430245A37B100F33D64 /* ButtonMenuViewController.swift */,
+				FAF69C22245B577700B60DC0 /* CombosViewController.swift */,
+				FA3F25A7245F5E38008FB1A8 /* DrinksMenuViewController.swift */,
+				FA3F25A3245CBB21008FB1A8 /* KidsMealsViewController.swift */,
+				FA3F25A5245F513B008FB1A8 /* ValueMenuViewController.swift */,
+				FA3F25A92460E5C5008FB1A8 /* SidesViewController.swift */,
+				FA3F25AB2460E5D1008FB1A8 /* ShakesViewController.swift */,
+				FA3F25AD2460E5E4008FB1A8 /* BlastsViewController.swift */,
+				FA3F25AF2460E5FB008FB1A8 /* BurgersToastersViewController.swift */,
+				FA3F25B12460E616008FB1A8 /* FloatsViewController.swift */,
+				FA3F25B32460E621008FB1A8 /* CreamSlushViewController.swift */,
+				FA3F25B52460E62D008FB1A8 /* SlushesViewController.swift */,
+				FA3F25B72460E661008FB1A8 /* FrozenFavViewController.swift */,
+				FA3F25B92460F0D6008FB1A8 /* ChickenConeysViewController.swift */,
 				FA06C37624478E690011D3D9 /* Main.storyboard */,
 				FA06C37924478E6D0011D3D9 /* Assets.xcassets */,
 				FA06C37B24478E6D0011D3D9 /* LaunchScreen.storyboard */,
@@ -138,8 +180,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA3F25A8245F5E38008FB1A8 /* DrinksMenuViewController.swift in Sources */,
+				FA3F25AA2460E5C5008FB1A8 /* SidesViewController.swift in Sources */,
+				FA3F25AE2460E5E4008FB1A8 /* BlastsViewController.swift in Sources */,
+				FA3F25B22460E616008FB1A8 /* FloatsViewController.swift in Sources */,
 				FA06C37524478E690011D3D9 /* ViewController.swift in Sources */,
+				FA3F25B02460E5FB008FB1A8 /* BurgersToastersViewController.swift in Sources */,
+				FA3F25AC2460E5D1008FB1A8 /* ShakesViewController.swift in Sources */,
+				FAF69C23245B577700B60DC0 /* CombosViewController.swift in Sources */,
+				FA3F25B82460E661008FB1A8 /* FrozenFavViewController.swift in Sources */,
+				FA143431245A37B100F33D64 /* ButtonMenuViewController.swift in Sources */,
+				FA3F25B42460E621008FB1A8 /* CreamSlushViewController.swift in Sources */,
+				FA3F25B62460E62D008FB1A8 /* SlushesViewController.swift in Sources */,
 				FA06C37124478E690011D3D9 /* AppDelegate.swift in Sources */,
+				FA3F25BA2460F0D6008FB1A8 /* ChickenConeysViewController.swift in Sources */,
+				FA3F25A6245F513B008FB1A8 /* ValueMenuViewController.swift in Sources */,
+				FA3F25A4245CBB21008FB1A8 /* KidsMealsViewController.swift in Sources */,
 				FA06C37324478E690011D3D9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -293,7 +349,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.jancialex.RestaurantPOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -310,7 +366,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.jancialex.RestaurantPOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
